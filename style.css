@@ -8,6 +8,9 @@ body{
     font-family: 'Montserrat', sans-serif;
     align-items: center;
 }
+.heading{
+    text-align: center;
+}
 .btn{
     background-color: black;
     color: white;
