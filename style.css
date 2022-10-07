@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Baloo+Bhaina+2:wght@500&family=Merriweather:ital,wght@0,900;1,300&family=Montserrat:wght@800&family=Oleo+Script&family=Open+Sans&family=PT+Serif:wght@700&family=Poppins:wght@300&display=swap');
+body{
+    background-color: rgb(237, 237, 143);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 15px;
+    cursor: pointer;
+}
